@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Header Component
 const Header = () => {
   return (
     <header className="flex justify-end items-center p-4 text-sm">
@@ -22,5 +23,3 @@ const Header = () => {
     </header>
   );
 };
-
-export default Header; 
